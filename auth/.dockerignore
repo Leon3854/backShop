@@ -1,0 +1,8 @@
+instruction.txt
+.git
+.gitignore
+README.md
+*.log
+.env
+dist/
+node_modules/.cache
